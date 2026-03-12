@@ -1,0 +1,8 @@
+flowchart TD
+    A[Reference Computer] --> B[Install Windows + Apps]
+    B --> C[Run Sysprep]
+    C --> D[Boot to WinPE]
+    D --> E[Capture Image using DISM]
+    E --> F[Create install.wim]
+    F --> G[Store Image on Deployment Server]
+    G --> H[Deploy to Multiple PCs]
