@@ -193,10 +193,10 @@ The `screenshots/` folder contains simulated images illustrating key steps in th
 
 | Step                                  | Image |
 |---------------------------------------|-------|
-| Sysprep window and generalize options | ![Sysprep window](screenshots/sysprep.png) |
-| Booting into the WinPE command prompt | ![WinPE boot](screenshots/winpe_boot.png) |
-| Running the DISM capture command      | ![DISM capture](screenshots/dism_capture.png) |
-| Verifying the captured WIM image      | ![WIM verification](screenshots/wim_verification.png) |
+| Sysprep window and generalize options | ![Sysprep window](sysprep.png) |
+| Booting into the WinPE command prompt | ![WinPE boot](winpe_boot.png) |
+| Running the DISM capture command      | ![DISM capture](dism_capture.png) |
+| Verifying the captured WIM image      | ![WIM verification](wim_verification.png) |
 
 ## 📝 Notes and tips
 
